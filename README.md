@@ -1,2 +1,2 @@
-# MyApplication4
-
+ShortCut桌面图标按压通知栏笔记
+支持SDK25版本以上
